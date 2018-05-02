@@ -24,7 +24,7 @@ typedef void (*printfunction)(Print*);
 // *************************************************************************
 //  Uncomment line below to fully disable logging, and reduce project size
 // ************************************************************************
-//#define DISABLE_LOGGING
+#define DISABLE_LOGGING
 
 
 #define LOG_LEVEL_SILENT  0
